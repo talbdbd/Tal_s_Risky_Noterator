@@ -23,7 +23,7 @@ No installation required! It will immediately run on the browser!
 ## Usage
 
 Take a look at the main page!
-![Note Taker Screenshot](assets/images/)
+![Note Taker Screenshot](./public/assets/images/notetaker.png)
 
 ## Credits
 
